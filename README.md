@@ -6,7 +6,7 @@ You can read my Medium Blog Post in .
 
 
 
-Required libraries:
+\n\nRequired libraries:
 Pandas
 Numpy
 Seaborn
