@@ -1,8 +1,8 @@
+
+<pre>
+
 Project 1:
-You can read my Medium Blog Post [Link text Here](https://medium.com/@lalzumaya/how-do-you-become-a-developer-with-no-prerequisites-d578934303a2) .
-
-
-
+You can read my Medium Blog Post [Here](https://medium.com/@lalzumaya/how-do-you-become-a-developer-with-no-prerequisites-d578934303a2) .
 
 
 
@@ -31,3 +31,5 @@ Result Summary
 Self learning is the most common way to learn programming.
 Above the half of the developers satisfied with their careers.
 Approximately all the developers who don’t have a formal IT education have a job.
+
+</pre>
