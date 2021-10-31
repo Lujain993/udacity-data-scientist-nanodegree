@@ -1,10 +1,10 @@
 
-<pre>
+
 
 Project 1:
 You can read my Medium Blog Post [Here](https://medium.com/@lalzumaya/how-do-you-become-a-developer-with-no-prerequisites-d578934303a2) .
 
-
+<pre>
 
 Required libraries:
 Pandas
