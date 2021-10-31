@@ -1,5 +1,5 @@
 Project 1:
-You can read my Medium Blog Post in .
+You can read my Medium Blog Post [Link text Here](https://medium.com/@lalzumaya/how-do-you-become-a-developer-with-no-prerequisites-d578934303a2) .
 
 
 
